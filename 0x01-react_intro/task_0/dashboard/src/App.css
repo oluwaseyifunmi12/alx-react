@@ -1,0 +1,28 @@
+
+.App-header {
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  color: red;
+}
+
+.rule {
+  border: none; 
+  height: 3px; 
+  background-color: red; 
+  width: 99%; 
+}
+
+.App-body {
+   
+  text-align: left; 
+  margin-top: 5%;
+  margin-left: 5%;
+  padding-bottom: 35%; 
+}
+
+
+.App-footer {
+  padding: 10px;
+  justify-items: center;
+}
